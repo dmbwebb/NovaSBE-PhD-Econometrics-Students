@@ -6,6 +6,8 @@ Duncan is an Assistant Professor of Economics at [Nova School of Business and Ec
 
 **Contact:** [dmbwebb@gmail.com](mailto:dmbwebb@gmail.com) | Office B115B | [www.duncan-webb.com](https://www.duncan-webb.com)
 
+**Office Hours:** Wednesdays at 13:00
+
 # Synopsis
 
 This course provides a rigorous introduction to modern causal inference methods using the potential outcomes framework. Students will learn the theoretical foundations and practical implementation of the core identification strategies used in applied microeconomics: randomized experiments, instrumental variables, difference-in-differences, and regression discontinuity designs. The course emphasizes both formal derivations and hands-on empirical analysis.
@@ -103,6 +105,8 @@ Active participation is strongly encouraged and may affect your grade. I will as
 ## Problem Sets
 
 There will be 4 problem sets throughout the course, distributed during weeks 2–6. Problem sets must be completed individually.
+
+**Deadline:** Tuesdays at 12:00 (noon)
 
 **Submission instructions:**
 - Submit to **dmbwebb@gmail.com**
