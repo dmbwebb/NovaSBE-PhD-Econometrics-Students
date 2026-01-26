@@ -95,6 +95,8 @@ Active participation is strongly encouraged and may affect your grade. I will as
 
 There will be 4 problem sets throughout the course, distributed during weeks 2–6. Problem sets must be completed individually.
 
+**Deadline:** Tuesdays at 12:00 (noon)
+
 **Submission instructions:**
 - Submit to **dmbwebb@gmail.com**
 - Include your name in the output
