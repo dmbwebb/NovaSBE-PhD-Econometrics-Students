@@ -1,6 +1,6 @@
 # Instructor
 
-Duncan Webb is a development economist who uses tools and insights from behavioural economics. His current research focuses on discrimination, social change, and human capital. He has worked extensively on field randomized controlled trials in India, Madagascar, and Colombia.
+1. 
 
 Duncan is an Assistant Professor of Economics at [Nova School of Business and Economics](https://www.novasbe.unl.pt/en/). He recently spent a year as a postdoctoral researcher at Princeton University, completed his PhD at the Paris School of Economics in 2024, and spent 2022â€“23 as a visiting scholar at MIT. He is a [J-PAL](https://www.povertyactionlab.org/) Invited Researcher and a member of the [NOVAFRICA](https://novafrica.org/) group.
 
@@ -109,6 +109,7 @@ There will be 4 problem sets throughout the course, distributed during weeks 2â€
 **Deadline:** Tuesdays at 12:00 (noon)
 
 **Submission instructions:**
+
 - Submit to **dmbwebb@gmail.com**
 - Include your name in the output
 - Submit **.tex files**, **.pdf files**, AND **code files** (Stata .do, R .R, or Python .py)
